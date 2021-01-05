@@ -1,0 +1,8 @@
+{
+  "require": {
+    "woodylan/converter": "^0.1.1",
+    "yurunsoft/chinese-util" : "~2.0",
+    "webpatser/laravel-uuid": "^3.0",
+    "elasticsearch/elasticsearch": "~7.0"
+  }
+}
